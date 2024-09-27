@@ -82,7 +82,7 @@ export const navItems = [
       id: 2,
       title: "Amazon Clone Webpage",
       des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-      img: "/p2.jpg",
+      img: "/p2.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
       link: "https://github.com/adrianhajdin/zoom-clone",
     },
@@ -90,15 +90,15 @@ export const navItems = [
       id: 3,
       title: "A perfect Resume Builder",
       des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-      img: "/p3.svg",
+      img: "/p3.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
       link: "https://github.com/adrianhajdin/ai_saas_app",
     },
     {
       id: 4,
-      title: "Fully Functional Calculator",
+      title: "Fully Functional CountDown timer",
       des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-      img: "/p4.svg",
+      img: "/p4.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
       link: "https://github.com/adrianhajdin/iphone",
     },
@@ -110,6 +110,7 @@ export const navItems = [
         "Collaborating with Samiullah was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Samiullah's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Samiullah is the ideal partner.",
       name: "Rachel Kim",
       title: "Online Retail Entrepreneur",
+  
     },
     {
       quote:
