@@ -3,9 +3,8 @@ import React from "react";
 
 import { AnimatePresence, motion } from "framer-motion";
 import { CanvasRevealEffect } from "@/components/ui/CanvasRevealEffect";
-import { desc, div } from "framer-motion/client";
 
-const Aproach=()=> {
+const Aproach=():React.JSX.Element=> {
   return (
     <section className="w-full py-20">
         <h1 className="heading">

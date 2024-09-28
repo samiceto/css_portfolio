@@ -1,4 +1,3 @@
-import { div } from 'framer-motion/client'
 import React from 'react'
 import { Spotlight } from './ui/Spotlight'
 import { TextGenerateEffect } from './ui/TextGenerateEffect';
@@ -20,12 +19,12 @@ const Hero = () => {
     </div>
     <div className="flex justify-center relative my-20 z-10">
         <div className='max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center'>
-            <h2 className="uppercase tracking-widest text-xs text-center max-w-80 text-blue-100">skill's Dynemic shop to choose the plan</h2>
+            <h2 className="uppercase tracking-widest text-xs text-center max-w-80 text-blue-100">skill&apos;s Dynemic shop to choose the plan</h2>
             <TextGenerateEffect
         className="text-center text-[40px] md:text-5xl lg:text-6xl"
         words="Transforming Concept into Seemless User Experiences" />
         <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-            Hi i'm Samiullah a Full Stack Developer based in pakistan
+            Hi i&apos;m Samiullah a Full Stack Developer based in pakistan
         </p>
         <a href="#about">
             <Magicbutton 

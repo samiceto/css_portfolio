@@ -3,8 +3,6 @@ import Hero from "@/components/Hero";
 import { RecentProjects } from "@/components/RecentProjects";
 import { FloatingNav } from "@/components/ui/floating-navbar";
 import { navItems } from "@/data";
-import Image from "next/image";
-import { FaHome } from 'react-icons/fa'
 import { Clients } from '@/components/Clients'
 import { Experience } from "@/components/Experience";
 import  Aproach  from "@/components/Aproach";
