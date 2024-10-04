@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a JS Animation library",
+      title: "Currently learning next.js",
       description: "The Inside Scoop",
       className: "md:col-span-2 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -76,7 +76,7 @@ export const navItems = [
       des: "Currently Focused on Helping e-commerce Business Owners by Providing them with High-Converting Amazon Product Listing Infographic Images Designs.",
       img: "/p1.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      link: "https://calculate-tw.vercel.app",
     },
     {
       id: 2,
@@ -84,7 +84,7 @@ export const navItems = [
       des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
       img: "/p2.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      link: "https://amazon-clone-eta-liard.vercel.app",
     },
     {
       id: 3,
@@ -92,7 +92,7 @@ export const navItems = [
       des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
       img: "/p3.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
+      link: "https://resume-builder-2.vercel.app",
     },
     {
       id: 4,
@@ -100,7 +100,7 @@ export const navItems = [
       des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
       img: "/p4.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
+      link: "https://countdown-updated-42ge.vercel.app/",
     },
   ];
   
@@ -110,6 +110,7 @@ export const navItems = [
         "Collaborating with Samiullah was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Samiullah's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Samiullah is the ideal partner.",
       name: "Rachel Kim",
       title: "Online Retail Entrepreneur",
+      img: "/Rachel-Kim.jpg"
   
     },
     {
@@ -117,24 +118,28 @@ export const navItems = [
         "I hired SAMIULLAH for images and EBC for my Amazon listing, and I'm thrilled with the results! The visuals are stunning and effectively highlight my product's features. Communication was excellent, and he made quick adjustments based on my feedback. My sales have increased significantly since the update—highly recommend his services!.",
       name: "Sarah Thompson",
       title: "Online Busseness Consultant",
+      img: "/Sarah-Thompson.jpg"
     },
     {
       quote:
         "I worked with Samiullah for my Amazon pay-per-click campaigns, He conducted thorough keyword research and optimized my ads, leading to a noticeable increase in traffic and sales. and he provided valuable insights throughout the process. I recommend his expertise for anyone looking to boost their Amazon presence!",
       name: "Michael Carter",
       title: "Amazon Store Owner",
+      img: "/Michael-Carter.jpg"
     },
     {
       quote:
         "I recently partnered with Samiullah and team to create a resume builder website, and I couldn’t be more pleased! They understood my vision from the start and delivered a user-friendly platform with sleek, professional templates. The team was responsive and made adjustments based on my feedback throughout the development process.",
       name: "Emily Zhang",
       title: "Small Business Owner",
+      img: "/Emily-Zhang.jpg"
     },
     {
       quote:
         "I partnered with Sami Ullah and his team for the front-end design of my Amazon clone website, and the results are outstanding! They created a beautiful and user-friendly interface that truly reflects the e-commerce experience. The team was highly responsive and incorporated my feedback seamlessly, making sure every detail was perfect. I highly recommend their expertise for anyone looking to develop an engaging front end for an online marketplace!",
       name: "David Johnson",
       title: "E-commerce Consultant",
+      img: "/David-Johnson.jpg"
     },
   ];
   
@@ -206,13 +211,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+       link: "https://github.com/samiceto"
     },
     {
       id: 2,
-      img: "/twit.svg",
+      img: "/fb.png",
+      link: "https://web.facebook.com/profile.php?id=100010029812399"
     },
     {
       id: 3,
       img: "/link.svg",
+       link: "https://www.linkedin.com/in/samiullah-malik-1549092b1/"
     },
   ];
