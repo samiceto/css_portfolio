@@ -1,4 +1,4 @@
-"use client"
+
 import { Grid } from "@/components/Grid";
 import Hero from "@/components/Hero";
 import { RecentProjects } from "@/components/RecentProjects";
